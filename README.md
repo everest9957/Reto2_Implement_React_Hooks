@@ -30,6 +30,9 @@ Implementar un componente funcional en React que use:
 ### Estructura del proyecto
 ![Estructura](capturas/01-estructura.png)
 
+### Vista del README en GitHub
+![README](capturas/05-readme.png)
+
 ## 🚀 Instalación
 
 ```bash
